@@ -1,3 +1,8 @@
+package dim2d.shapes;
+
+import dim2d.Point;
+import dim2d.Size;
+import dim2d.Vector;
 
 public class Rectangle extends Shape {
 	private final Size size;

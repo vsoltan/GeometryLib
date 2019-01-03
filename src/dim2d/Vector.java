@@ -1,3 +1,5 @@
+package dim2d;
+import tests.MathConstants;
 
 public class Vector implements MathConstants {
 

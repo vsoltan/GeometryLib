@@ -1,3 +1,4 @@
+package dim2d;
 
 public class Point {
 

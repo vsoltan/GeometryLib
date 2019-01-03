@@ -1,3 +1,6 @@
+package dim2d.shapes;
+
+import dim2d.Point;
 
 public class Shape {
 

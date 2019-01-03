@@ -1,6 +1,11 @@
+package tests.dim2d;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import dim2d.Point;
+import dim2d.Vector;
+import tests.MathConstants;
 
 public class PointTest {
 	

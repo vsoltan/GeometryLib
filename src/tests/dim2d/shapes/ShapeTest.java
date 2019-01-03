@@ -1,6 +1,10 @@
+package tests.dim2d.shapes;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import dim2d.Point;
+import dim2d.shapes.Shape;
 
 public class ShapeTest {
 

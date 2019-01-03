@@ -1,3 +1,5 @@
+package dim3d;
+import dim2d.Point;
 
 public class Point3D extends Point {
 

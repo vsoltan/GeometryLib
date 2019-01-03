@@ -1,7 +1,11 @@
+package tests.dim3d;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 
 import org.junit.Test;
+
+import dim3d.Point3D;
+import tests.MathConstants;
 
 public class Point3DTest {
 

@@ -1,6 +1,10 @@
+package tests.dim2d;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import dim2d.Size;
+import tests.MathConstants;
 
 public class SizeTest {
 

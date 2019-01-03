@@ -1,6 +1,14 @@
+package tests.dim2d.shapes;
+
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import dim2d.Point;
+import dim2d.Size;
+import dim2d.Vector;
+import dim2d.shapes.Rectangle;
+import tests.MathConstants;
 
 public class RectangleTest {
 
